@@ -13,7 +13,7 @@ L'argent est le nerf de la musique et mieux vaut chanter que faire la guerre... 
 
 Beaucoup de projets sont en préparation et tu peux m'aider à les finaliser en participant à la hauteur que tu souhaites.
 
-###Plus que ma reconnaissance éternelle voici ce que je t'offre si tu participes à la production de mes projets :
+### Plus que ma reconnaissance éternelle voici ce que je t'offre si tu participes à la production de mes projets :
 
 * - de 1 à 5€ : une vidéo de remerciement et une poignée de main ( promis je mettrai mon masque ce jour-là)
 * - de 5 à 10 € : une invitation à venir assister à l'enregistrement d'une chanson
@@ -24,7 +24,7 @@ Beaucoup de projets sont en préparation et tu peux m'aider à les finaliser en 
 Plus sérieusement : tu assistes à toutes les répètes et tous les enregistrements que tu veux. Une chanson sera écrite à ta gloire et tu apparaîtra , si tu le souhaites, dans le prochain vidéo clip)
 * - + de 1000€ : une recette de mayonnaise portera ton nom ! Je crois que je vais mettre les 1000 juste pour créer la Bokayonnaise, ça claque franchement !!
 
-###Pour que cela ait plus de sens de donner, voici ce que je paye pour les services suivants :
+### Pour que cela ait plus de sens de donner, voici ce que je paye pour les services suivants :
 
 * - Enregistrement et mix : 30€/ heure
 * - Montage vidéo : 250€
