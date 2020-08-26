@@ -12,7 +12,7 @@ author: Label Epok
 
 EP « From Bordeaux to the World » de Boka, enregistré à La Péniche, réalisé par Boka et Walass. Pochette réalisé par KEO. Photo Bordeaux ; Paco Pix. Photo Boka ; Keo. Photo Valparaiso ; Samy Brillaud
 
-![from-bordeaux-to-the-world]({{site.url}}/assets/img/from-bordeaux-to-the-world.png)
+![from-bordeaux-to-the-world]({{site.url}}/{{site.baseurl}}/assets/img/from-bordeaux-to-the-world.png)
 
 ## En écoute sur Bandcamp
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3999920730/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://labelepok.bandcamp.com/album/from-bordeaux-to-the-world">From Bordeaux to the world by Boka</a></iframe>

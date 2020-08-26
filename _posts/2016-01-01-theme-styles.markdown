@@ -10,7 +10,7 @@ categories: category2
 author: Nina Petropoulos
 ---
 
-![black-and-roll]({{site.url}}/assets/img/black-and-roll.png)
+![black-and-roll]({{site.url}}/{{site.baseurl}}/assets/img/black-and-roll.png)
 
 Le projet Blacknroll a germé dans mon esprit à la suite d'aventures musicales avortées.
 Il fallait que je trouve la bonne formule pour continuer à produire de la musique et assumer mon rôle de prof et de papa.
@@ -31,7 +31,7 @@ A la manière du professeur dans la Casa de papel, il a fallu choisir minutieuse
 
 ## En écoute sur Deezer
 <a href="https://www.deezer.com/fr/artist/92319712">
-  <img src="{{site.url}}/assets/img/deezer.png" width="85%" />
+  <img src="{{site.url}}/{{site.baseurl}}/assets/img/deezer.png" width="85%" />
 </a>
 
 <!-- <iframe scrolling="no" frameborder="0" allowTransparency="true" src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=007FEB&layout=dark&size=medium&type=album&id=143802022&app_id=1" width="700" height="350"></iframe> -->
@@ -42,7 +42,7 @@ A la manière du professeur dans la Casa de papel, il a fallu choisir minutieuse
 ## En écoute sur Napster
 
 <a href="https://fr.napster.com/artist/boka-omw/album/black-n-roll">
-  <img src="{{site.url}}/assets/img/napster.png" width="85%" />
+  <img src="{{site.url}}/{{site.baseurl}}/assets/img/napster.png" width="85%" />
 </a>
 - - -
 

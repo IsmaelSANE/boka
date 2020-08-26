@@ -117,7 +117,7 @@ author: Nina Petropoulos
 ##Découvrez l'album de mon petit frére le rappeur bordelais STRAIGHT
 
 <a href="https://www.deezer.com/en/track/468081412">
-  <img src="{{site.url}}/assets/img/straight.jpeg" width="100%" />
+  <img src="{{site.url}}/{{site.baseurl}}/assets/img/straight.jpeg" width="100%" />
 </a>
 
 - - -

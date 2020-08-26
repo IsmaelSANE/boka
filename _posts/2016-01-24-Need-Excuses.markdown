@@ -10,23 +10,23 @@ categories: category1
 author: Boka et Max
 ---
 
-![bokaetmax]({{site.url}}/assets/img/boka&max.png)
+![bokaetmax]({{site.url}}/{{site.baseurl}}/assets/img/boka&max.png)
 
 Musiciens bordelais faisant du guitare-voix . Le groupe, composé de Boka le chanteur et Max le guitariste joue dans le style folk,soul et reggae.
 Boka est avant tout un groupe scénique qui reprend des chansons d'artistes comme Jason Mraz , Ray Lamontagne , John Legend, The Roots, Bernhoft, etc...
 Le groupe propose aussi des compositions personnelles.
 ##De 2011 à 2016 Boka & Max écumaient les scènes bordelaises pour des concerts intimistes dont voici quelques extraits.
-<a href="https://www.youtube.com/watch?time_continue=1&v=ytAweVdQrCQ&feature=emb_logo" target="_blank"><img src="{{site.url}}/assets/img/boka-one.png"
+<a href="https://www.youtube.com/watch?time_continue=1&v=ytAweVdQrCQ&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-one.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=c5hMDZrSDU4&feature=emb_logo" target="_blank"><img src="{{site.url}}/assets/img/boka-two.png"
+<a href="https://www.youtube.com/watch?v=c5hMDZrSDU4&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-two.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=IuaS1dGOjfA&feature=emb_logo" target="_blank"><img src="{{site.url}}/assets/img/boka-three.png"
+<a href="https://www.youtube.com/watch?v=IuaS1dGOjfA&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-three.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=TPPKg-9q1Mw&feature=emb_logo" target="_blank"><img src="{{site.url}}/assets/img/boka-four.png"
+<a href="https://www.youtube.com/watch?v=TPPKg-9q1Mw&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-four.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=3ZweAZnnrLI&feature=emb_logo" target="_blank"><img src="{{site.url}}/assets/img/boka-five.png"
+<a href="https://www.youtube.com/watch?v=3ZweAZnnrLI&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-five.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=GohE7Qc4dWw&feature=emb_logo" target="_blank"><img src="{{site.url}}/assets/img/boka-six2.png"
+<a href="https://www.youtube.com/watch?v=GohE7Qc4dWw&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-six2.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
 
 ## En écoute sur Sondcloud

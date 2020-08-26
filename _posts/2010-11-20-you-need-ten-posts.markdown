@@ -37,7 +37,7 @@ Plus sérieusement : tu assistes à toutes les répètes et tous les enregistrem
 Si tu es prêt à devenir mon producteur et apporter un soutien décisif à mon succès.
 Clique sur l'image ci-dessous.
 
-<a href="https://www.paypal.com/paypalme/bokaomw?utm_source=unp&utm_medium=email&utm_campaign=PPC000628&utm_unptid=289979dc-9823-11ea-ae93-b875c0b0bf0d&ppid=PPC000628&cnac=FR&rsta=fr_FR&cust=4NMQW6GD6M3CG&unptid=289979dc-9823-11ea-ae93-b875c0b0bf0d&calc=7af48640f9979&unp_tpcid=ppme-social-user-profile-created&page=main%3Aemail%3APPC000628%3A%3A%3A&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&xt=104037"  target="_blank">![bokaetmax]({{site.url}}/assets/img/fry-donation.png)</a>
+<a href="https://www.paypal.com/paypalme/bokaomw?utm_source=unp&utm_medium=email&utm_campaign=PPC000628&utm_unptid=289979dc-9823-11ea-ae93-b875c0b0bf0d&ppid=PPC000628&cnac=FR&rsta=fr_FR&cust=4NMQW6GD6M3CG&unptid=289979dc-9823-11ea-ae93-b875c0b0bf0d&calc=7af48640f9979&unp_tpcid=ppme-social-user-profile-created&page=main%3Aemail%3APPC000628%3A%3A%3A&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&xt=104037"  target="_blank">![bokaetmax]({{site.url}}/{{site.baseurl}}/assets/img/fry-donation.png)</a>
 
 
 

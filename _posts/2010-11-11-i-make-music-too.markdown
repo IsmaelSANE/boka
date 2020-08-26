@@ -18,7 +18,7 @@ Tu peux me contacter à l'adresse email suivante : bokablacknroll@gmail.com
 
 Je suis toujours à la recherche projets musicaux ou de d'association musical pour faire des sceines, alors n'hésitez pas à me contacter.
 
-<a href="{{ site.url }}/categories/category1.html">Contactez-moi</a> pour faire partie du Boka and the whellers Band !
+<a href="{{ site.url }}/{{site.baseurl}}/categories/category1.html">Contactez-moi</a> pour faire partie du Boka and the whellers Band !
 {% include carousel.html height="50" unit="%" duration="7" %}
 
 [link1]: https://www.zikinf.com/annuaire/musiciens/fiche.php?u=276640
