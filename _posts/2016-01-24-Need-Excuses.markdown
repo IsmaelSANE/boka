@@ -15,7 +15,9 @@ author: Boka et Max
 Musiciens bordelais faisant du guitare-voix . Le groupe, composé de Boka le chanteur et Max le guitariste joue dans le style folk,soul et reggae.
 Boka est avant tout un groupe scénique qui reprend des chansons d'artistes comme Jason Mraz , Ray Lamontagne , John Legend, The Roots, Bernhoft, etc...
 Le groupe propose aussi des compositions personnelles.
-##De 2011 à 2016 Boka & Max écumaient les scènes bordelaises pour des concerts intimistes dont voici quelques extraits.
+
+## De 2011 à 2016 Boka & Max écumaient les scènes bordelaises pour des concerts intimistes dont voici quelques extraits.
+
 <a href="https://www.youtube.com/watch?time_continue=1&v=ytAweVdQrCQ&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-one.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=c5hMDZrSDU4&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-two.png"
