@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "From Bordeaux to the world"
+date:   2016-01-30 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: premieralbum-1.png
+categories: category2
+
+# Information for the author block
+author: Label Epok
+---
+
+EP « From Bordeaux to the World » de Boka, enregistré à La Péniche, réalisé par Boka et Walass. Pochette réalisé par KEO. Photo Bordeaux ; Paco Pix. Photo Boka ; Keo. Photo Valparaiso ; Samy Brillaud
+
+![from-bordeaux-to-the-world]({{site.url}}/assets/img/from-bordeaux-to-the-world.png)
+
+## En écoute sur Bandcamp
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3999920730/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://labelepok.bandcamp.com/album/from-bordeaux-to-the-world">From Bordeaux to the world by Boka</a></iframe>
+Album numérique Écoute en continu + téléchargement gratuit
+
+1. You never know 04:02
+2. Shine 03:09
+3. There is love 04:37
+4. Mr Vanity 02:50
