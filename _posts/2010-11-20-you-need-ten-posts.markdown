@@ -19,7 +19,7 @@ Beaucoup de projets sont en préparation et tu peux m'aider à les finaliser en 
 * - de 5 à 10 € : une invitation à venir assister à l'enregistrement d'une chanson
 * - de 10 à 30€ : Je t'offre la chanson de ton choix au format de ton choix et le choix dans la date !
 * - de 30 à 50 € : je t'offre un concert gratuit ou un live juste pour toi ( dans le lieu de ton choix mais pas en Birmanie non plus !)
-* - de 50€ à 100€ : J'écris une chanson en ton nom ou sur le thème et dans la langue de ton choix
+* - de 50€ à 100€ : J'écris une chanson en ton nom ou sur le thème et dans la langue de ton choix.
 * - + de 100€ : Je t'épouse mais on devra s'installer en Polygamie
 Plus sérieusement : tu assistes à toutes les répètes et tous les enregistrements que tu veux. Une chanson sera écrite à ta gloire et tu apparaîtra , si tu le souhaites, dans le prochain vidéo clip)
 * - + de 1000€ : une recette de mayonnaise portera ton nom ! Je crois que je vais mettre les 1000 juste pour créer la Bokayonnaise, ça claque franchement !!
