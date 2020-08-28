@@ -27,7 +27,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in site.data.carousel.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
+            <li class="carousel__slide" style="background-image: url('{{ site.url }}/{{ site.baseurl }}/{{ item.image }}');">
               <p style="position: relative; top: 230px; color: white;">
               <strong>{{ item.text }}</strong>
               </p>
