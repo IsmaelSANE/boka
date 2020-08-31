@@ -3,7 +3,7 @@ layout: post
 title:  "Musique"
 date:   2016-01-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: boka-2.png
+thumbnail: boka-quadra.png
 categories: category1
 
 # Information for the author block
