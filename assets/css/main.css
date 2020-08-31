@@ -1086,10 +1086,10 @@ footer{
 
 /*HERO*/
 #hero {
-  background-image: url(/assets/img/boka-new-2.png);
+  background-image: url(https://ismaelsane.github.io/boka/assets/img/boka-new-2.png);
 }
 @media only screen and (min-width: 900px) {
   #hero {
-    background-image: url(/assets/img/boka-omw.png);
+    background-image: url(https://ismaelsane.github.io/boka/assets/img/boka-omw.png);
   }
 }
