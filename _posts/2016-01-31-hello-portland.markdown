@@ -9,7 +9,7 @@ categories: category1
 # Information for the author block
 author: Pop, Rock , Reggae, French pop music and a wee bit of french rap.
 ---
-Auteur compositeur bordelais. Boka se sert des influences hip-hop, jazz, soul et pop pour créer une musique atypique et extrêmement variée.
+Auteur compositeur Bordelais. Boka se sert des influences hip-hop, jazz, soul et pop pour créer une musique atypique et extrêmement variée.
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4e437Rk39SMkkZfUSVI4DP&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
 

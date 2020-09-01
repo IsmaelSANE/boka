@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Groupe guitare-voix"
+title:  "Guitare voix"
 date:   2016-01-24 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: bokaetmax.png

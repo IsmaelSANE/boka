@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Album"
+title:  "Last Album"
 date:   2016-01-01 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: blacknroll.png
@@ -44,12 +44,3 @@ A la manière du professeur dans la Casa de papel, il a fallu choisir minutieuse
 <a href="https://fr.napster.com/artist/boka-omw/album/black-n-roll">
   <img src="{{site.url}}/{{site.baseurl}}/assets/img/napster.png" width="85%" />
 </a>
-- - -
-
-## Quelques anecdotes sur le Making of de l'album:
-
-1. Lors de la première rencontre entre tous les musiciens, j'avais fixé le rdv mais j'ai réussi à arriver en retard car... je ne me souvenais plus de l'heure à laquelle j'avais moi-même programmé le rdv.
-2. L'enregistrement de la basse et de la batterie s'est fait à Barbey ( jour de la prise des photos) deux jours après la naissance de ma fille et le jour de la naissance de ma nièce  #daddy's music.
-3. La voix de la chanson Old man in love a été réalisée en one shot !!!
-
-[daringfireball.net]: http://daringfireball.net/projects/markdown/syntax#link

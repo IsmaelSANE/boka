@@ -30,3 +30,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 [link1]: example.net
 [link2]: example.com
 [link3]: example.org
+
+<div>
+Bien que la collaboration avec [Rémi Seeklone][link1]  et [Loïc Methalie][link2] fût fructueuse et continuera, Boka OMW recherche pour ses concerts un batteur, un bassiste, un guitariste.
+
+Tu peux me contacter à l'adresse email suivante : bokablacknroll@gmail.com
+
+( Je lâche pas mon 06 aussi facilement !)
+
+Je suis toujours à la recherche projets musicaux ou de d'association musical pour faire des sceines, alors n'hésitez pas à me contacter.
+
+<a href="{{ site.url }}/{{site.baseurl}}/categories/category1.html">Contactez-moi</a> pour faire partie du Boka and the whellers Band !
+  {% include carousel.html height="50" unit="%" duration="10" %}
+
+[link1]: https://www.zikinf.com/annuaire/musiciens/fiche.php?u=276640
+[link2]: https://www.instagram.com/loic_mbass/
+</div>
