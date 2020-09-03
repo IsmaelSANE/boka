@@ -86,7 +86,6 @@ a {
 a:active,
 a:hover {
   outline: 0; }
-
 /* Text-level semantics
    ========================================================================== */
 /**
@@ -387,7 +386,8 @@ a {
   text-decoration: none;
   color: black; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: underline;
+    color: #fb8e01; }
 
 .post-title {
   font-weight: 700;
@@ -405,6 +405,10 @@ a {
 
 .caps {
   text-transform: uppercase; }
+
+.caps:hover {
+  color: #fb8e01;
+}
 
 .small {
   font-size: 12px; }
