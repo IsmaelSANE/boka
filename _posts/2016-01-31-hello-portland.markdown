@@ -1,37 +1,47 @@
 ---
 layout: post
-title:  "Musique"
+title:  "Videos"
 date:   2016-01-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: boka-quadra.png
+thumbnail: boka-quadra-2.png
 categories: category1
 
 # Information for the author block
-author: Pop, Rock , Reggae, French pop music and a wee bit of french rap.
+author:
 ---
 Auteur compositeur Bordelais. Boka se sert des influences hip-hop, jazz, soul et pop pour créer une musique atypique et extrêmement variée.
 
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4e437Rk39SMkkZfUSVI4DP&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+<!-- <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4e437Rk39SMkkZfUSVI4DP&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe> -->
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Ut enim ad minim veniam][link2], quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 8 minutes pour George Floyd
 
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit][link3], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aB9XyJrlP4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Ut Labore et Dolore
+## Pause
 
-Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RpqGk43sZng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. consectetur adipisicing elit
-2. sed do eiusmod tempor incididunt
-3. ut labore et dolore magna aliqua.
+## Old man in love
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rz7c8EkdV9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## On est pas bien là !
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jt-3bXXeWfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Water of flint
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vA7b2nDFknY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## You Must Be Right
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7bwdAF_y3BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Let's stand for Georges Floyd !
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rMFc3rlKNUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4e437Rk39SMkkZfUSVI4DP&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+## The pain I feel
 
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qT5G6AreMIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
