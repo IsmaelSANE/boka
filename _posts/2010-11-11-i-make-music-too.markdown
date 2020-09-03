@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paroles de chansons"
+title:  "Lyrics"
 date:   2010-11-11 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: zikos-2.png
