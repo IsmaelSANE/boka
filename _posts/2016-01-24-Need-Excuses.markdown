@@ -28,7 +28,7 @@ alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=3ZweAZnnrLI&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-five.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=GohE7Qc4dWw&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-six2.png"
+<a href="https://www.youtube.com/watch?v=GohE7Qc4dWw&feature=emb_logo" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/img/boka-six.png"
 alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
 
 ## En écoute sur Sondcloud
