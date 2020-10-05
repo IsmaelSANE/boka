@@ -4,6 +4,7 @@ title:  "Premier Groupe"
 date:   2009-11-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: espritco.png
+thumbnailpost: boka-esprit-co.png
 categories: category1
 
 # Information for the author block

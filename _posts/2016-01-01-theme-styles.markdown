@@ -4,6 +4,7 @@ title:  "Last Album"
 date:   2016-01-01 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: blacknroll.png
+thumbnailpost: boka-shade.png
 categories: category2
 
 # Information for the author block

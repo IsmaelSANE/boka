@@ -4,6 +4,7 @@ title:  "Be my producer"
 date:   2016-01-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: selfproducing.png
+thumbnailpost: boka-grande-roue.png
 categories: category1
 
 # Information for the author block

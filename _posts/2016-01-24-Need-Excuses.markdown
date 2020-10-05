@@ -4,6 +4,7 @@ title:  "Guitare voix"
 date:   2016-01-24 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: bokaetmax.png
+thumbnailpost: bokaetmax.png
 categories: category1
 
 # Information for the author block
@@ -37,4 +38,5 @@ alt="IMAGE ALT TEXT HERE" width="220" height="180" border="10" /></a>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/70092442&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jean-yves-doffou" title="Boka OMW" target="_blank" style="color: #cccccc; text-decoration: none;">Boka OMW</a> · <a href="https://soundcloud.com/jean-yves-doffou/le-secret-des-hommes-boka" title="Le secret des hommes_ Boka" target="_blank" style="color: #cccccc; text-decoration: none;">Le secret des hommes_ Boka</a></div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69634723&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jean-yves-doffou" title="Boka OMW" target="_blank" style="color: #cccccc; text-decoration: none;">Boka OMW</a> · <a href="https://soundcloud.com/jean-yves-doffou/song-for-my-son-acoustic" title="Song for my son ( acoustic version)" target="_blank" style="color: #cccccc; text-decoration: none;">Song for my son ( acoustic version)</a></div>
+
 
