@@ -4,14 +4,14 @@ title:  "Guitare voix"
 date:   2016-01-24 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: bokaetmax.png
-thumbnailpost: bokaetmax.png
+thumbnailpost: boka&max-2.png
 categories: category1
 
 # Information for the author block
 author: Boka et Max
 ---
 
-![bokaetmax]({{site.url}}/{{site.baseurl}}/assets/img/boka&max.png)
+## Boka et Max
 
 Musiciens bordelais faisant du guitare-voix . Le groupe, composé de Boka le chanteur et Max le guitariste joue dans le style folk,soul et reggae.
 Boka est avant tout un groupe scénique qui reprend des chansons d'artistes comme Jason Mraz , Ray Lamontagne , John Legend, The Roots, Bernhoft, etc...

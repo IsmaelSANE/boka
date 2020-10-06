@@ -4,7 +4,7 @@ title:  "From Bordeaux to the world"
 date:   2016-01-30 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: premieralbum-1.png
-thumbnailpost: premieralbum-1.png
+thumbnailpost: boka-bordeaux.png
 categories: category2
 
 # Information for the author block
