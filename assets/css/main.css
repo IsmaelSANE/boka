@@ -916,6 +916,7 @@ footer{
   font-size: 2em;
   padding: 0.2em;
   border: 2px solid rgba(0, 0, 0, 0.1);
+  text-decoration: none;
   box-shadow:
     -5px -5px 5px rgba(255, 255, 255, 0.05),
     5px 5px 5px rgba(0, 0, 0, 0.3),
