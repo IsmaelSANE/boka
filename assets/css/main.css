@@ -152,6 +152,32 @@ sub {
 img {
   border: 0; }
 
+  /* relevant styles */
+  .img__wrap {
+    position: relative;
+    height: 200px;
+    width: 257px;
+  }
+
+  .img__description {
+    position: absolute;
+    /*top: 0;*/
+    bottom: 50px;
+    left: 10px;
+    right: 0;
+    /*background: rgba(29, 106, 154, 0.72);*/
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+
+    /* transition effect. not necessary */
+    transition: opacity .2s, visibility .2s;
+  }
+
+  .img__wrap:hover .img__description {
+    visibility: visible;
+    opacity: 1;
+  }
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
