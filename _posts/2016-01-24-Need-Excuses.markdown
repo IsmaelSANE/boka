@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: bokaetmax.png
 thumbnailpost: boka&max-2.png
 categories: category1
+permalink: /guitare-voix/
 
 # Information for the author block
 author: Boka et Max

@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: premieralbum-1.png
 thumbnailpost: boka-bordeaux.png
 categories: category2
+permalink: /from-bordeaux-to-the-world/
 
 # Information for the author block
 author: Label Epok

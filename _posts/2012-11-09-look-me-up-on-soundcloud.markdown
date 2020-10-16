@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: boka-music.png
 thumbnailpost: boka-harbour.png
 categories: category1
+permalink: /music/
 
 # Information for the author block
 author: Nina Petropoulos

@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: blacknroll.png
 thumbnailpost: boka-shade.png
 categories: category2
+permalink: /last-album/
 
 # Information for the author block
 author: Nina Petropoulos

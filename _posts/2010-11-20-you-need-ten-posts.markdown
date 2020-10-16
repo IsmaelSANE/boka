@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: selfproducing.png
 thumbnailpost: boka-grande-roue.png
 categories: category1
+permalink: /be-my-producer/
 
 # Information for the author block
 author: Sois mon producteur

@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: zikos-2.png
 thumbnailpost: boka-singing.png
 categories: category1
+permalink: /lyrics/
 
 # Information for the author block
 author: Nina Petropoulos

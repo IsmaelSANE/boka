@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: boka-quadra-4.png
 thumbnailpost: boka-miroire-d-eau.png
 categories: category1
+permalink: /videos/
 
 # Information for the author block
 author:

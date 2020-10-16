@@ -6,6 +6,8 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: videospicture.png
 thumbnailpost:  boka-sungasses.png
 categories: category1
+permalink: /fil-d-actualites/
+
 
 # Information for the author block
 author: Nina Petropoulos

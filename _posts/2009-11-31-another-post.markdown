@@ -6,6 +6,7 @@ description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet 
 thumbnail: espritco.png
 thumbnailpost: boka-esprit-co.png
 categories: category1
+permalink: /premier-groupe/
 
 # Information for the author block
 author: Nina Petropoulos

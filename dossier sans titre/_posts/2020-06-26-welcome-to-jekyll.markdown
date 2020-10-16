@@ -6,6 +6,7 @@ date:   2020-06-26 00:46:34 +0200
 categories: jekyll update
 thumbnail: boka-omw.png
 thumbnailpost: the-original-mic-walker.png
+permalink: /boka-omw/
 ---
 Enfance à Eysines
 
