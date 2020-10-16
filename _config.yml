@@ -7,10 +7,10 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: BOKA
 email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
-#baseurl: "/boka" # the subpath of your site, e.g. /blog
-#url: "https://ismaelsane.github.io" #
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: ""
+baseurl: "/boka" # the subpath of your site, e.g. /blog
+url: "https://ismaelsane.github.io" #
 
 # Where can people find your site?
 #url: "http://localhost:3000"
