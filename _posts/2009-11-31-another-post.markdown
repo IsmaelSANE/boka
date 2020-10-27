@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Premier Groupe"
+title:  "Esprit Corrosif"
 date:   2009-11-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: espritco.png
 thumbnailpost: boka-esprit-co.png
 categories: category1
-permalink: /premier-groupe/
+permalink: /esprit-corrosif/
 
 # Information for the author block
 author: Nina Petropoulos
