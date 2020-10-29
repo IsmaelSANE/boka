@@ -23,7 +23,16 @@ title: Home
 <div class='divider xs-12 grow'></div>
 
 <div class='flexbox'>
-{% for post in site.posts limit:2 offset:3 %}
+  <div class="sm-6 textPreview vertCenter grow short">
+    <div>
+      <a class='caps post-title' href='https://www.mahempwear.com/' style="text-decoration: none;">Sponsored by &nbsp; &nbsp; &nbsp;</a>
+      <a class="img__wrap" href="https://www.mahempwear.com/" target="_blank">
+        <img class="img__img" src="{{site.url}}/{{site.baseurl}}/assets/img/ma-hemp-wear.png"
+      alt="MA HEMP WEAR" width="200" height="80" border="10" />
+      </a> &nbsp;  &nbsp;
+    </div>
+  </div>
+{% for post in site.posts limit:1 offset:4 %}
   <div class="sm-6 textPreview vertCenter grow short">
     <div>
       <a class='caps post-title' href='https://www.boka-omw.com{{ post.url }}' style="text-decoration: none;">{{ post.title }}</a>
