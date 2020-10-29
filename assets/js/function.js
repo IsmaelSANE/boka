@@ -3,10 +3,14 @@ $(function() {
   $(window).scroll(function() {
     var scroll = $(this).scrollTop();
 
-    if (scroll >= $('.topBarTrigger').offset().top) {
-        $('.topBar').removeClass('hidden');
-    } else {
-        $('.topBar').addClass('hidden');
+    if (scroll.length) {
+      var contentScroll = scroll.offset().top;
+
+      if (scroll >= $('.topBarTrigger').offset().top) {
+          $('.topBar').removeClass('hidden');
+      } else {
+          $('.topBar').addClass('hidden');
+      }
     }
   });
 });
