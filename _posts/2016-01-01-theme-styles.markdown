@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Last Album"
+subtitle: "The Original Mic Walker"
 date:   2016-01-01 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: blacknroll.png

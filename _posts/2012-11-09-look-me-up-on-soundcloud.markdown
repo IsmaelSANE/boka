@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Music"
+subtitle: "The Original Mic Walker"
 date:   2012-11-09 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: boka-music.png
