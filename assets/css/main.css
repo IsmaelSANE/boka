@@ -935,7 +935,7 @@ footer{
 .links h2{
   margin-bottom: 2em;
 }
-.social a{
+.social .social-media{
   height: 1.5em;
   width: 1.5em;
   border-radius: 10px;

@@ -12,14 +12,12 @@ permalink: /esprit-corrosif/
 # Information for the author block
 author: Nina Petropoulos
 ---
-Esprit Corrosif est un duo de rap Bordelais formé en 1996 et arreté en 2000 pour des histoires de meufs considérées à l'époque je cite : "Comme des bonbons".
-
-Esprit Corrosif est le premier groupe de BOKA qu'il forme avec un de ses amis d'enfance le beau gosse Sénégalais ISSO.
+Esprit Corrosif est un duo de rap Bordelais formé en 1996 et arreté en 2000. Esprit Corrosif est le premier groupe de BOKA qu'il forme avec un de ses amis d'enfance ISSO.
 
 Ils sont très influencés par des groupes comme Lunatic, Monsieur R, 2 bal 2 neg, La Cliqua, HI-Fi ou encore Le crew Time Bomb. C'est une époque où l'industrie du rap est underground et commence à devenir mainstream.
 
 En auto-production complète BOKA se confronte aux exigences de la musique et devient un des pionniers de la création de musique rap assisté par des logiciels informatiques.
-Il crée ainsi des musiques originales sur des paroles sincères, qui représentent la vie de deux fils d'immigrés africains de première génération à Bordeaux à la fin des années 90.
+Il crée ainsi des musiques originales sur des paroles sincères, qui représentent la vie de deux fils d'immigrés africains, de première génération à Bordeaux, à la fin des années 90.
 
 ## En écoute sur soundcloud
 
